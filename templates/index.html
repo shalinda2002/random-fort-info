@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Random Fort Generator - Display random historic Indian forts in your GitHub README">
+    <title>🏰 Random Fort Generator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+            min-height: 100vh;
+            color: #fff;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            font-size: 3rem;
+            background: linear-gradient(90deg, #f39c12, #e74c3c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: #aaa;
+            font-size: 1.2rem;
+        }
+
+        .stats {
+            display: flex;
+            gap: 2rem;
+            justify-content: center;
+            margin-top: 1.5rem;
+        }
+
+        .stat {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 1rem 2rem;
+            border-radius: 12px;
+            border: 1px solid rgba(233, 69, 96, 0.3);
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #e94560;
+        }
+
+        .stat-label {
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        .preview-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(233, 69, 96, 0.2);
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #f39c12;
+        }
+
+        .preview-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        #fort-preview {
+            max-width: 100%;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        .refresh-btn {
+            background: linear-gradient(90deg, #e94560, #f39c12);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            font-family: 'Outfit', sans-serif;
+            font-weight: 600;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .refresh-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(233, 69, 96, 0.4);
+        }
+
+        .usage-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            border: 1px solid rgba(233, 69, 96, 0.2);
+        }
+
+        .code-block {
+            background: #1a1a2e;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+            overflow-x: auto;
+            border: 1px solid rgba(233, 69, 96, 0.3);
+        }
+
+        .code-block code {
+            color: #e0e0e0;
+            font-family: 'Fira Code', 'Consolas', monospace;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+
+        .code-block .comment {
+            color: #666;
+        }
+
+        .code-block .url {
+            color: #4ade80;
+        }
+
+        .copy-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #fff;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            float: right;
+            font-size: 0.85rem;
+            transition: background 0.3s;
+        }
+
+        .copy-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .endpoints {
+            display: grid;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .endpoint {
+            background: rgba(255, 255, 255, 0.03);
+            padding: 1rem 1.5rem;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            border-left: 3px solid #e94560;
+        }
+
+        .endpoint-method {
+            background: #4ade80;
+            color: #000;
+            padding: 0.25rem 0.75rem;
+            border-radius: 5px;
+            font-weight: 600;
+            font-size: 0.8rem;
+        }
+
+        .endpoint-path {
+            color: #e0e0e0;
+            font-family: monospace;
+        }
+
+        .endpoint-desc {
+            color: #888;
+            font-size: 0.9rem;
+            margin-left: auto;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            color: #666;
+        }
+
+        footer a {
+            color: #e94560;
+            text-decoration: none;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .endpoint {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .endpoint-desc {
+                margin-left: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>🏰 Random Fort Generator</h1>
+            <p class="subtitle">Showcase historic Indian forts in your GitHub README</p>
+
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-number">{{ total_forts }}</div>
+                    <div class="stat-label">Historic Forts</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">12+</div>
+                    <div class="stat-label">Districts Covered</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">∞</div>
+                    <div class="stat-label">Random Cards</div>
+                </div>
+            </div>
+        </header>
+
+        <section class="preview-section">
+            <h2 class="section-title">📸 Live Preview</h2>
+            <div class="preview-container">
+                <img id="fort-preview" src="/api/fort-card.svg" alt="Random Fort Card">
+                <button class="refresh-btn" onclick="refreshFort()">🔄 Show Another Fort</button>
+            </div>
+        </section>
+
+        <section class="usage-section">
+            <h2 class="section-title">📝 Usage in GitHub README</h2>
+            <p style="color: #aaa; margin-bottom: 1rem;">Add this to your README.md to display a random fort on every
+                page load:</p>
+
+            <div class="code-block">
+                <button class="copy-btn" onclick="copyCode()">📋 Copy</button>
+                <code>
+<span class="comment">&lt;!-- Random Fort Card --&gt;</span>
+&lt;a href="<span class="url">https://your-app-url.vercel.app</span>"&gt;
+  &lt;img src="<span class="url">https://your-app-url.vercel.app/api/fort-card.svg</span>" alt="Random Fort" /&gt;
+&lt;/a&gt;
+                </code>
+            </div>
+
+            <p style="color: #888; font-size: 0.9rem; margin-top: 1rem;">
+                ⚠️ Note: GitHub caches images aggressively. The image will update when the cache expires or when
+                visitors view your profile directly.
+            </p>
+
+            <h3 style="color: #f39c12; margin-top: 2rem; margin-bottom: 1rem;">🔗 API Endpoints</h3>
+            <div class="endpoints">
+                <div class="endpoint">
+                    <span class="endpoint-method">GET</span>
+                    <span class="endpoint-path">/api/fort-card.svg</span>
+                    <span class="endpoint-desc">Random fort SVG card (use this in README)</span>
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">GET</span>
+                    <span class="endpoint-path">/api/fort</span>
+                    <span class="endpoint-desc">Random fort JSON data</span>
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">GET</span>
+                    <span class="endpoint-path">/api/fort/{id}</span>
+                    <span class="endpoint-desc">Specific fort SVG card (0-36)</span>
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">GET</span>
+                    <span class="endpoint-path">/api/all-forts</span>
+                    <span class="endpoint-desc">All forts JSON data</span>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>Made with ❤️ for Indian Heritage | <a
+                    href="https://github.com/notsointresting/random-fort-generator">GitHub Repository</a></p>
+        </footer>
+    </div>
+
+    <script>
+        function refreshFort() {
+            const preview = document.getElementById('fort-preview');
+            // Add cache-busting parameter
+            preview.src = '/api/fort-card.svg?' + Date.now();
+        }
+
+        function copyCode() {
+            const code = `<!-- Random Fort Card -->
+<a href="https://your-app-url.vercel.app">
+  <img src="https://your-app-url.vercel.app/api/fort-card.svg" alt="Random Fort" />
+</a>`;
+            navigator.clipboard.writeText(code);
+            const btn = document.querySelector('.copy-btn');
+            btn.textContent = '✅ Copied!';
+            setTimeout(() => {
+                btn.textContent = '📋 Copy';
+            }, 2000);
+        }
+    </script>
+</body>
+
+</html>

